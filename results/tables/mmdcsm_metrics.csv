@@ -1,0 +1,2 @@
+test_negative_log_likelihood,concordance_index,cluster_ARI,risk_separation,test_censoring_rate
+1.6278512477874756,0.7345856463124505,0.5305909319764409,0.12027119100093842,0.505
